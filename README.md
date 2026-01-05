@@ -1,2 +1,11 @@
-# Localized-Accounting
-Localized Accounting，language Chinese
+# 简易个人记账本系统v1.0.0
+
+## 功能说明
+- 添加收入/支出记录（含日期、类型、金额、类别、备注）
+- 实时显示本月收支统计
+- 所有记录以表格形式展示
+- 数据自动保存至本地 `records.csv` 文件
+
+## 运行环境
+- Python 3.6 或更高版本
+- 无需安装额外依赖（仅使用标准库）
